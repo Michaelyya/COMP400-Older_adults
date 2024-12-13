@@ -1,0 +1,1004 @@
+{
+    "exercises": [
+        {
+            "id": "walk_001",
+            "name": "Gentle Walking",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "intensity": "low",
+            "duration_range": {
+                "min": 10,
+                "max": 30,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "high blood pressure",
+                "general fitness",
+                "mild balance issues",
+                "diabetes"
+            ],
+            "contraindications": [
+                "severe dizziness",
+                "acute joint pain",
+                "severe balance issues"
+            ],
+            "location_types": [
+                "outdoor park",
+                "indoor mall",
+                "community center track",
+                "neighborhood sidewalk"
+            ],
+            "equipment_needed": "none",
+            "weather_dependent": true,
+            "group_activity": "optional",
+            "description": "A gentle walk at your own pace. Perfect for beginners or those looking to maintain basic fitness.",
+            "benefits": [
+                "Improves cardiovascular health",
+                "Maintains joint flexibility",
+                "Enhances balance",
+                "Supports weight management",
+                "Reduces stress"
+            ],
+            "modifications": {
+                "balance_issues": "Use a walking aid or walk with a companion",
+                "joint_pain": "Walk on level surfaces, take frequent breaks",
+                "stamina_issues": "Start with 5-minute intervals"
+            },
+            "safety_tips": [
+                "Wear comfortable, supportive shoes",
+                "Start slowly and gradually increase pace",
+                "Stay hydrated",
+                "Walk in well-lit areas",
+                "Carry a phone for emergencies"
+            ],
+            "progression_tips": [
+                "Gradually increase duration by 5 minutes",
+                "Slowly increase pace as comfortable",
+                "Add gentle inclines when ready"
+            ]
+        },
+        {
+            "id": "chair_yoga_001",
+            "name": "Chair Yoga",
+            "category": "flexibility",
+            "difficulty": "beginner",
+            "intensity": "low",
+            "duration_range": {
+                "min": 15,
+                "max": 45,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "balance issues",
+                "limited mobility",
+                "joint stiffness",
+                "back pain"
+            ],
+            "contraindications": [
+                "severe joint inflammation",
+                "acute back injury",
+                "uncontrolled high blood pressure"
+            ],
+            "location_types": [
+                "indoor home",
+                "community center",
+                "senior center"
+            ],
+            "equipment_needed": [
+                "sturdy chair",
+                "comfortable clothing"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Gentle yoga poses performed while seated or using a chair for support.",
+            "benefits": [
+                "Improves flexibility",
+                "Reduces joint stiffness",
+                "Enhances posture",
+                "Reduces stress",
+                "Maintains range of motion"
+            ],
+            "modifications": {
+                "arthritis": "Focus on gentle movements within comfort zone",
+                "back_pain": "Avoid forward bends if uncomfortable",
+                "balance_issues": "Keep chair against wall for stability"
+            },
+            "safety_tips": [
+                "Use a sturdy, non-rolling chair",
+                "Stay within comfortable range of motion",
+                "Breathe steadily throughout exercises",
+                "Stop if you feel pain",
+                "Keep movements slow and controlled"
+            ],
+            "progression_tips": [
+                "Gradually increase hold times",
+                "Add more repetitions as comfortable",
+                "Try standing poses with chair support"
+            ]
+        },
+        {
+            "id": "water_exercise_001",
+            "name": "Water Walking",
+            "category": "aquatic",
+            "difficulty": "beginner",
+            "intensity": "low to moderate",
+            "duration_range": {
+                "min": 20,
+                "max": 40,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "joint pain",
+                "obesity",
+                "balance issues",
+                "muscle weakness",
+                "osteoporosis"
+            ],
+            "contraindications": [
+                "open wounds",
+                "severe heart conditions",
+                "fear of water",
+                "incontinence"
+            ],
+            "location_types": [
+                "indoor pool",
+                "aquatic center",
+                "community pool"
+            ],
+            "equipment_needed": [
+                "swimsuit",
+                "water shoes",
+                "towel"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "Walking exercises performed in chest-deep water, providing natural resistance with low impact.",
+            "benefits": [
+                "Low impact on joints",
+                "Natural resistance for strength",
+                "Improved balance",
+                "Enhanced cardiovascular fitness",
+                "Reduced risk of falls"
+            ],
+            "modifications": {
+                "fear_of_water": "Start in shallow water",
+                "balance_issues": "Use pool noodle for support",
+                "joint_pain": "Reduce speed and intensity"
+            },
+            "safety_tips": [
+                "Exercise in designated areas only",
+                "Never swim alone",
+                "Stay hydrated even in water",
+                "Use pool railings when entering/exiting",
+                "Wear appropriate footwear"
+            ],
+            "progression_tips": [
+                "Increase walking speed",
+                "Add arm movements",
+                "Try walking backwards (with supervision)",
+                "Increase duration gradually"
+            ]
+        },
+        {
+            "id": "seated_strength_001",
+            "name": "Seated Strength Training",
+            "category": "strength",
+            "difficulty": "beginner",
+            "intensity": "low to moderate",
+            "duration_range": {
+                "min": 15,
+                "max": 30,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "balance issues",
+                "limited mobility",
+                "general weakness",
+                "osteoporosis"
+            ],
+            "contraindications": [
+                "acute joint inflammation",
+                "uncontrolled high blood pressure",
+                "recent surgery"
+            ],
+            "location_types": [
+                "indoor home",
+                "senior center",
+                "community center"
+            ],
+            "equipment_needed": [
+                "sturdy chair",
+                "light dumbbells (1-3 lbs)",
+                "resistance bands (optional)"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Strength training exercises performed while seated, focusing on upper body and leg strength.",
+            "benefits": [
+                "Builds muscle strength",
+                "Maintains bone density",
+                "Improves daily function",
+                "Enhances grip strength",
+                "Increases energy levels"
+            ],
+            "modifications": {
+                "arthritis": "Use lighter weights or no weights",
+                "shoulder_pain": "Focus on lower body exercises",
+                "grip_issues": "Use resistance bands instead of weights"
+            },
+            "safety_tips": [
+                "Start without weights to learn proper form",
+                "Breathe steadily throughout exercises",
+                "Keep movements controlled",
+                "Stay well-hydrated",
+                "Rest between exercises"
+            ],
+            "progression_tips": [
+                "Gradually increase repetitions",
+                "Slowly add light weights",
+                "Increase weight only when current level feels easy"
+            ]
+        },
+        {
+            "id": "balance_001",
+            "name": "Basic Balance Exercises",
+            "category": "balance",
+            "difficulty": "beginner",
+            "intensity": "low",
+            "duration_range": {
+                "min": 10,
+                "max": 20,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "mild balance issues",
+                "fear of falling",
+                "general fitness",
+                "early stage Parkinson's",
+                "recovering from injury"
+            ],
+            "contraindications": [
+                "severe vertigo",
+                "uncontrolled blood pressure",
+                "severe balance issues without support"
+            ],
+            "location_types": [
+                "indoor home",
+                "physical therapy clinic",
+                "senior center"
+            ],
+            "equipment_needed": [
+                "sturdy chair for support",
+                "non-slip mat"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "Simple exercises to improve balance and reduce fall risk, performed with chair support.",
+            "benefits": [
+                "Improves stability",
+                "Reduces fall risk",
+                "Builds leg strength",
+                "Increases confidence",
+                "Enhances proprioception"
+            ],
+            "modifications": {
+                "severe_balance_issues": "Always use chair support",
+                "joint_pain": "Reduce hold times",
+                "fatigue": "Take frequent breaks"
+            },
+            "safety_tips": [
+                "Always have support nearby",
+                "Exercise near a wall or stable surface",
+                "Wear non-slip shoes",
+                "Start with feet wider apart",
+                "Focus on a fixed point while balancing"
+            ],
+            "progression_tips": [
+                "Reduce hand support gradually",
+                "Narrow stance as balance improves",
+                "Increase hold times slowly",
+                "Add head turns when stable"
+            ]
+        },
+        {
+            "id": "tai_chi_001",
+            "name": "Tai Chi",
+            "category": "mind-body",
+            "difficulty": "intermediate",
+            "intensity": "moderate",
+            "duration_range": {
+                "min": 20,
+                "max": 45,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "balance issues",
+                "high blood pressure",
+                "stress",
+                "mild cognitive decline"
+            ],
+            "contraindications": [
+                "severe joint problems",
+                "advanced heart conditions",
+                "severe dizziness"
+            ],
+            "location_types": [
+                "indoor community center",
+                "park",
+                "senior center"
+            ],
+            "equipment_needed": [
+                "comfortable clothing",
+                "flat comfortable shoes"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "Gentle flowing movements combined with deep breathing and meditation.",
+            "benefits": [
+                "Improves balance",
+                "Reduces stress",
+                "Enhances flexibility",
+                "Builds leg strength",
+                "Promotes mental clarity"
+            ],
+            "modifications": {
+                "balance_issues": "Practice near a wall",
+                "arthritis": "Reduce range of motion",
+                "fatigue": "Focus on upper body only"
+            },
+            "safety_tips": [
+                "Start with basic forms",
+                "Keep movements slow and controlled",
+                "Stay within comfortable range",
+                "Maintain good posture",
+                "Listen to your body"
+            ],
+            "progression_tips": [
+                "Learn new forms gradually",
+                "Increase duration slowly",
+                "Add more complex movements",
+                "Practice regularly"
+            ]
+        },
+        {
+            "id": "stretch_001",
+            "name": "Daily Stretching Routine",
+            "category": "flexibility",
+            "difficulty": "beginner",
+            "intensity": "low",
+            "duration_range": {
+                "min": 10,
+                "max": 20,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "joint stiffness",
+                "muscle tension",
+                "arthritis",
+                "limited mobility",
+                "back pain"
+            ],
+            "contraindications": [
+                "acute injuries",
+                "severe osteoporosis",
+                "recent surgery"
+            ],
+            "location_types": [
+                "indoor home",
+                "bedroom",
+                "living room"
+            ],
+            "equipment_needed": [
+                "yoga mat or carpeted floor",
+                "comfortable clothing",
+                "chair for support"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Gentle stretching exercises focusing on major muscle groups and joints.",
+            "benefits": [
+                "Improves flexibility",
+                "Reduces muscle tension",
+                "Enhances range of motion",
+                "Reduces risk of injury",
+                "Promotes relaxation"
+            ],
+            "modifications": {
+                "back_pain": "Avoid forward bends",
+                "joint_pain": "Reduce stretch intensity",
+                "balance_issues": "Perform seated stretches"
+            },
+            "safety_tips": [
+                "Never bounce while stretching",
+                "Stretch to tension, not pain",
+                "Hold stretches gently",
+                "Breathe steadily",
+                "Warm up before stretching"
+            ],
+            "progression_tips": [
+                "Gradually increase hold time",
+                "Add new stretches slowly",
+                "Increase range of motion gradually",
+                "Progress to standing stretches"
+            ]
+        },
+        {
+            "id": "mall_walk_001",
+            "name": "Mall Walking Program",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "intensity": "low to moderate",
+            "duration_range": {
+                "min": 20,
+                "max": 60,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "weather sensitivity",
+                "mild balance issues",
+                "social isolation",
+                "needs climate control"
+            ],
+            "contraindications": [
+                "severe mobility issues",
+                "advanced heart conditions",
+                "severe anxiety in crowds"
+            ],
+            "location_types": [
+                "indoor shopping mall",
+                "large indoor retail spaces"
+            ],
+            "equipment_needed": [
+                "comfortable walking shoes",
+                "water bottle",
+                "comfortable clothing"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "Structured walking program in climate-controlled shopping malls before stores open.",
+            "benefits": [
+                "Climate-controlled environment",
+                "Safe, level walking surface",
+                "Social interaction",
+                "Access to restrooms",
+                "Available seating for rest"
+            ],
+            "modifications": {
+                "fatigue": "Use mall benches for rest stops",
+                "joint_pain": "Walk shorter distances",
+                "balance_issues": "Walk near storefronts for support"
+            },
+            "safety_tips": [
+                "Join organized mall walking groups",
+                "Walk during designated hours",
+                "Stay hydrated",
+                "Know location of restrooms",
+                "Bring emergency contact information"
+            ],
+            "progression_tips": [
+                "Increase walking distance",
+                "Add upper level walking",
+                "Increase pace gradually",
+                "Add multiple laps"
+            ]
+        },
+        {
+            "id": "swim_001",
+            "name": "Gentle Swimming",
+            "category": "aquatic",
+            "difficulty": "intermediate",
+            "intensity": "moderate",
+            "duration_range": {
+                "min": 20,
+                "max": 45,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "joint pain",
+                "obesity",
+                "respiratory conditions",
+                "heat sensitivity"
+            ],
+            "contraindications": [
+                "fear of water",
+                "open wounds",
+                "incontinence",
+                "ear infections"
+            ],
+            "location_types": [
+                "indoor pool",
+                "community center pool",
+                "aquatic center"
+            ],
+            "equipment_needed": [
+                "swimsuit",
+                "swim cap",
+                "goggles",
+                "water shoes",
+                "towel"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Gentle swimming and water movements focusing on smooth strokes and breathing.",
+            "benefits": [
+                "Full body workout",
+                "No impact on joints",
+                "Improved cardiovascular health",
+                "Enhanced flexibility",
+                "Better breathing control"
+            ],
+            "modifications": {
+                "breathing_issues": "Use kickboard",
+                "shoulder_pain": "Focus on leg movements",
+                "neck_issues": "Use flotation devices"
+            },
+            "safety_tips": [
+                "Swim with a buddy",
+                "Stay in designated areas",
+                "Take regular breaks",
+                "Maintain proper hydration",
+                "Use pool steps or ladder carefully"
+            ],
+            "progression_tips": [
+                "Increase duration gradually",
+                "Add new strokes slowly",
+                "Build endurance with longer swims",
+                "Try different water depths"
+            ]
+        },
+        {
+            "id": "cycle_001",
+            "name": "Stationary Cycling",
+            "category": "cardio",
+            "difficulty": "intermediate",
+            "intensity": "adjustable",
+            "duration_range": {
+                "min": 10,
+                "max": 30,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "knee problems",
+                "balance issues",
+                "mild heart conditions",
+                "weight management needs",
+                "joint pain"
+            ],
+            "contraindications": [
+                "severe back pain",
+                "uncontrolled blood pressure",
+                "severe arthritis"
+            ],
+            "location_types": [
+                "home",
+                "gym",
+                "rehabilitation center"
+            ],
+            "equipment_needed": [
+                "stationary bicycle",
+                "comfortable clothing",
+                "water bottle"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Low-impact cycling on a stationary bike with adjustable resistance.",
+            "benefits": [
+                "Cardiovascular fitness",
+                "Lower body strength",
+                "Joint-friendly exercise",
+                "Improved leg circulation",
+                "Better balance"
+            ],
+            "modifications": {
+                "back_pain": "Adjust seat position",
+                "knee_pain": "Lower resistance",
+                "grip_issues": "Use adapted handlebars"
+            },
+            "safety_tips": [
+                "Proper seat height adjustment",
+                "Start with no resistance",
+                "Maintain good posture",
+                "Stay hydrated",
+                "Monitor heart rate"
+            ],
+            "progression_tips": [
+                "Increase duration gradually",
+                "Add resistance slowly",
+                "Build up to interval training",
+                "Extend cycling time"
+            ]
+        },
+        {
+            "id": "band_001",
+            "name": "Resistance Band Exercises",
+            "category": "strength",
+            "difficulty": "beginner to intermediate",
+            "intensity": "adjustable",
+            "duration_range": {
+                "min": 15,
+                "max": 30,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "arthritis",
+                "osteoporosis",
+                "limited mobility",
+                "balance issues",
+                "strength building needs"
+            ],
+            "contraindications": [
+                "severe joint inflammation",
+                "acute injuries",
+                "skin sensitivity to latex"
+            ],
+            "location_types": [
+                "home",
+                "senior center",
+                "physical therapy clinic"
+            ],
+            "equipment_needed": [
+                "resistance bands of varying strength",
+                "chair",
+                "exercise mat"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Strength training using elastic resistance bands for full-body exercise.",
+            "benefits": [
+                "Builds muscle strength",
+                "Improves flexibility",
+                "Enhances joint stability",
+                "Portable equipment",
+                "Adjustable resistance"
+            ],
+            "modifications": {
+                "arthritis": "Use lighter resistance",
+                "limited mobility": "Perform seated exercises",
+                "balance_issues": "Exercise while seated"
+            },
+            "safety_tips": [
+                "Check band condition before use",
+                "Secure band properly",
+                "Maintain controlled movements",
+                "Avoid sudden movements",
+                "Store bands properly"
+            ],
+            "progression_tips": [
+                "Increase band resistance",
+                "Add more repetitions",
+                "Try complex movements",
+                "Combine exercises"
+            ]
+        },
+        {
+            "id": "wall_pushup_001",
+            "name": "Wall Push-ups",
+            "category": "strength",
+            "difficulty": "beginner",
+            "intensity": "low",
+            "duration_range": {
+                "min": 5,
+                "max": 15,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "limited upper body strength",
+                "balance issues",
+                "joint pain",
+                "osteoporosis",
+                "general weakness"
+            ],
+            "contraindications": [
+                "severe shoulder pain",
+                "acute wrist injury",
+                "uncontrolled blood pressure"
+            ],
+            "location_types": [
+                "home",
+                "any location with sturdy wall",
+                "senior center"
+            ],
+            "equipment_needed": [
+                "sturdy wall",
+                "non-slip shoes"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Modified push-ups performed against a wall to build upper body strength.",
+            "benefits": [
+                "Upper body strength",
+                "Improved posture",
+                "Better core stability",
+                "Enhanced shoulder mobility",
+                "Increased chest strength"
+            ],
+            "modifications": {
+                "wrist_pain": "Use hands on cushioned surface",
+                "shoulder_issues": "Reduce range of motion",
+                "balance_issues": "Stand closer to wall"
+            },
+            "safety_tips": [
+                "Use a solid wall",
+                "Keep feet planted firmly",
+                "Maintain proper alignment",
+                "Breathe steadily",
+                "Stop if pain occurs"
+            ],
+            "progression_tips": [
+                "Increase repetitions",
+                "Stand farther from wall",
+                "Add sets gradually",
+                "Try different hand positions"
+            ]
+        },
+        {
+            "id": "swim_adv_001",
+            "name": "Advanced Lap Swimming",
+            "category": "aquatic",
+            "difficulty": "advanced",
+            "intensity": "high",
+            "duration_range": {
+                "min": 30,
+                "max": 60,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "experienced swimmers",
+                "good cardiovascular health",
+                "strong physical condition",
+                "previous swimming experience",
+                "endurance trained"
+            ],
+            "contraindications": [
+                "heart conditions",
+                "severe arthritis",
+                "breathing difficulties",
+                "uncontrolled high blood pressure",
+                "balance disorders"
+            ],
+            "location_types": [
+                "lap pool",
+                "aquatic center",
+                "community pool with lanes"
+            ],
+            "equipment_needed": [
+                "athletic swimsuit",
+                "goggles",
+                "swim cap",
+                "swim fins (optional)",
+                "hand paddles (optional)"
+            ],
+            "weather_dependent": false,
+            "group_activity": "optional",
+            "description": "Advanced swimming workout incorporating different strokes and endurance training.",
+            "benefits": [
+                "High cardiovascular fitness",
+                "Full body strength",
+                "Enhanced endurance",
+                "Improved stroke technique",
+                "Advanced breathing control"
+            ],
+            "modifications": {
+                "joint_sensitivity": "Focus on freestyle and backstroke",
+                "neck_issues": "Minimize butterfly stroke",
+                "stamina_building": "Alternate strokes with rest intervals"
+            },
+            "safety_tips": [
+                "Always swim with a buddy or lifeguard present",
+                "Monitor heart rate",
+                "Stay well hydrated",
+                "Take regular breaks",
+                "Know pool safety rules"
+            ],
+            "progression_tips": [
+                "Increase number of laps",
+                "Add interval training",
+                "Incorporate multiple strokes",
+                "Reduce rest periods"
+            ]
+        },
+        {
+            "id": "hiit_001",
+            "name": "Modified HIIT for Seniors",
+            "category": "cardio-strength",
+            "difficulty": "advanced",
+            "intensity": "high",
+            "duration_range": {
+                "min": 20,
+                "max": 30,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "good cardiovascular health",
+                "strong balance",
+                "previous exercise experience",
+                "good joint health",
+                "physician-cleared for intense exercise"
+            ],
+            "contraindications": [
+                "unstable heart conditions",
+                "severe arthritis",
+                "uncontrolled blood pressure",
+                "balance issues",
+                "recent surgery"
+            ],
+            "location_types": [
+                "fitness center",
+                "home gym",
+                "senior center with equipment"
+            ],
+            "equipment_needed": [
+                "exercise mat",
+                "light dumbbells",
+                "resistance bands",
+                "sturdy chair",
+                "timer"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "High-Intensity Interval Training adapted for active seniors, alternating between intense activity and recovery periods.",
+            "benefits": [
+                "Improved cardiovascular fitness",
+                "Enhanced strength",
+                "Better endurance",
+                "Increased metabolism",
+                "Time-efficient workout"
+            ],
+            "modifications": {
+                "joint_sensitivity": "Use low-impact alternatives",
+                "reduced_stamina": "Extend recovery periods",
+                "balance_concerns": "Keep one hand near support"
+            },
+            "safety_tips": [
+                "Perform proper warm-up",
+                "Monitor heart rate closely",
+                "Stay well hydrated",
+                "Listen to body signals",
+                "Cool down properly"
+            ],
+            "progression_tips": [
+                "Increase interval intensity",
+                "Reduce recovery time",
+                "Add complex movements",
+                "Increase repetitions"
+            ]
+        },
+        {
+            "id": "yoga_adv_001",
+            "name": "Advanced Senior Yoga",
+            "category": "mind-body",
+            "difficulty": "advanced",
+            "intensity": "moderate to high",
+            "duration_range": {
+                "min": 45,
+                "max": 90,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "previous yoga experience",
+                "good flexibility",
+                "strong balance",
+                "core strength",
+                "mind-body awareness"
+            ],
+            "contraindications": [
+                "severe osteoporosis",
+                "acute joint problems",
+                "vertigo",
+                "uncontrolled blood pressure"
+            ],
+            "location_types": [
+                "yoga studio",
+                "fitness center",
+                "home practice area"
+            ],
+            "equipment_needed": [
+                "yoga mat",
+                "yoga blocks",
+                "strap",
+                "blanket",
+                "bolster"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "Advanced yoga practice incorporating challenging poses, breathing techniques, and longer holds.",
+            "benefits": [
+                "Advanced flexibility",
+                "Strong core strength",
+                "Enhanced balance",
+                "Deep mind-body connection",
+                "Improved posture"
+            ],
+            "modifications": {
+                "wrist_sensitivity": "Use forearm supports",
+                "knee_issues": "Modify floor poses",
+                "shoulder_limitations": "Adapt arm positions"
+            },
+            "safety_tips": [
+                "Warm up thoroughly",
+                "Use props when needed",
+                "Listen to body limitations",
+                "Maintain steady breathing",
+                "Practice with qualified instructor"
+            ],
+            "progression_tips": [
+                "Increase hold times",
+                "Try more challenging variations",
+                "Add flow sequences",
+                "Incorporate inversions carefully"
+            ]
+        },
+        {
+            "id": "strength_adv_001",
+            "name": "Advanced Strength Training",
+            "category": "strength",
+            "difficulty": "advanced",
+            "intensity": "high",
+            "duration_range": {
+                "min": 45,
+                "max": 60,
+                "unit": "minutes"
+            },
+            "suitable_conditions": [
+                "strength training experience",
+                "good joint health",
+                "strong core stability",
+                "cardiovascular fitness",
+                "physician-cleared for resistance training"
+            ],
+            "contraindications": [
+                "severe osteoporosis",
+                "unstable heart conditions",
+                "uncontrolled blood pressure",
+                "acute joint problems"
+            ],
+            "location_types": [
+                "gym",
+                "fitness center",
+                "home gym with equipment"
+            ],
+            "equipment_needed": [
+                "free weights",
+                "resistance bands",
+                "weight machines",
+                "exercise mat",
+                "bench"
+            ],
+            "weather_dependent": false,
+            "group_activity": "recommended",
+            "description": "Comprehensive strength training program using various equipment and techniques.",
+            "benefits": [
+                "Increased muscle mass",
+                "Enhanced bone density",
+                "Improved functional strength",
+                "Better joint stability",
+                "Increased metabolism"
+            ],
+            "modifications": {
+                "joint_sensitivity": "Use machines instead of free weights",
+                "grip_strength": "Use straps or alternative grips",
+                "balance_issues": "Perform seated exercises"
+            },
+            "safety_tips": [
+                "Always warm up properly",
+                "Use proper form",
+                "Have spotter when necessary",
+                "Progress gradually",
+                "Monitor heart rate"
+            ],
+            "progression_tips": [
+                "Increase weight gradually",
+                "Add complex movements",
+                "Reduce rest periods",
+                "Incorporate supersets"
+            ]
+        }
+    ]
+}
